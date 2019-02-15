@@ -44,9 +44,17 @@ You can find a list of my publications on [google scholar](https://scholar.googl
 * **International Society for Animal Genetics 2012**, Cairns, Australia (Poster, Two Oral Presentations), July 2012
 
 
+## Memberships/Volunteering work
+
+*  Writer for a scientific podcast: [Goggles Optional](http://gogglesoptional.com/)  2015-2016
+* Member of the [Stanford Penpal group](https://www.stanfordsciencepenpals.com/) 2016 - 2018
+* Judge for [DNA day contest](https://www.ashg.org/education/dnaday.shtml) (ASHG) 2017
+* Co-chair Programms Committee [AWIS Palo Alto](http://pa-awis.weebly.com/)
+* Reviewer for: The Lancet, GigaScience, Gene
+
 ## Contact
 
-* Mail: lfresard@stanford.edu
+* Mail:<li><a href="mailto:lfresard@stanford.edu">lfresard@stanford.edu</a></li>
 * Twitter: @LaureFresard
 * Linkedin: https://www.linkedin.com/in/lfresard/
 
