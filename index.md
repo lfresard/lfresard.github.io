@@ -52,6 +52,14 @@ You can find a list of my publications on [google scholar](https://scholar.googl
 * Co-chair Programms Committee [AWIS Palo Alto](http://pa-awis.weebly.com/)
 * Reviewer for: The Lancet, GigaScience, Gene
 
+
+## Awards
+* Volunteer of the Year 2018 - Association for Women In Science - Palo Alto Chapter, 2018
+* Reviewers’ Choice Abstracts - ASHG, 2018
+* Charles B. Carrington Memorial Award for outstanding poster presentation, 2017
+* Stanford Center For Computational, Evolutionary and Human Genomics Postoctoral Fellowship, 2015
+
+
 ## Contact
 
 * Mail:<li><a href="mailto:lfresard@stanford.edu">lfresard@stanford.edu</a></li>
