@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## About Me
+I am a postdoctoral scholar in the Department of Pathology at Stanford University. I obtained my PhD from Paul Sabatier Unniversity in Toulouse, France. There, I used RNA-sequencing and DNA-sequencing experiments to study the impact of variations on phenotypes. I worked on the characterization of genomic imprinting and RNA editing in chicken embryos. 
+Strong of my experience in animal genomics, I wanted to transition from “feeding the world” to “healing the world” questions during my postdoctoral time. As a postdoctoral scholar in the [Montgomery lab](http://montgomerylab.stanford.edu/), I am working in understanding how genetic variants impact gene expression. During my first year at Stanford, I co-developed eigenMT, a multi-testing correction method for eQTL studies that accounts for linkage disequilibrium between variants. I then was involved in the development of CRISPR-X, a strategy to repurpose the somatic hypermutation machinery for protein engineering in situ.
+More recently, I have been working on transcriptome samples from patients affected by rare disease with the will to identify disease causing genes in children where genome-based approaches were not successful.
 
-You can use the [editor on GitHub](https://github.com/lfresard/lfresard.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publications
 
-### Markdown
+### Selected contributions
+* **L. Fresard**, C Smail, K.S. Smith, N.M. Ferraro, N.A. Teran, K.D. Kernohan, D. Bonner, X. Li, S. Marwaha, Z. Zappala, B. Balliu, J.R. Davis, B. Liu, C.J. Prybol, J.N. Kohler, D.B. Zastrow, D.G. Fisk., M.E. Grove, J.M. Davidson, T. Hartley, R. Joshi, B.J. Strober, S. Utiramerur, Care4Rare Canada Consortium, Undiagnosed Diseases Network, L. Lind, E. Ingelsson, A. Battle, G. Bejerano, J.A. Bernstein, E.A. Ashley, K.M. Boycott, J.D. Merker, M.T. Wheeler, and S.B. Montgomery. Identication of rare-disease genes in diverse undiagnosed cases using whole blood transcriptome sequencing and large control cohorts. 2018. preprint [manuscript link](https://www.biorxiv.org/content/10.1101/408492v1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* GTEx Consortium; Laboratory, Data Analysis and Coordinating Center (LDACC) - Analysis Working Group; Statistical Methods groups - Analysis Working Group; Enhancing GTEx (eGTEx) groups; NIH Common Fund; NIH/NCI; NIH/NHGRI; NIH/NIMH; NIH/NIDA; Biospecimen Collection Source Site - NDRI; Biospecimen Collection Source Site RPCI; Biospecimen Core Resource - VARI; Brain Bank Repository - University of Miami Brain Endowment Bank; Leidos Biomedical - Project Management; ELSI Study; Genome Browser Data Integration and Visualization - EBI; Genome Browser Data Integration and Visualization - UCSC Genomics Institute, University of California Santa Cruz; Lead analysts; Laboratory, Data Analysis and Coordinating Center (LDACC); NIH program management; Biospecimen collection:; Pathology; eQTL manuscript working group, Battle A, Brown CD, Engelhardt BE, Montgomery SB. Genetic effects on gene expression across human tissues. 2017. Nature. [manuscript link](https://www.nature.com/articles/nature24277)
 
-```markdown
-Syntax highlighted code block
+* Hess GT, **L. Fresard**, K. Han, CH. Lee, A. Li, KA. Cimprich, SB. Montgomery, MC Bassik. Directed evolution using dCas9-targeted somatic hypermutation in mammalian cells. 2016. Nature Methods. [manuscript link](https://www.nature.com/articles/nmeth.4038)
 
-# Header 1
-## Header 2
-### Header 3
+* Davis JR¶, **L. Fresard**¶, DA. Knowles, M. Pala, CD. Bustamante, A. Battle, SB. Montgomery.  An Efficient Multiple-Testing Adjustment for eQTL Studies that Accounts for Linkage Disequilibrium between Variants. 2015. Americal Journal of Human Genetics. 
+[manuscript link](https://www.cell.com/ajhg/fulltext/S0002-9297(15)00492-9).
+[code](https://github.com/joed3/eigenMT)
+¶ co-first
 
-- Bulleted
-- List
+* **L. Fresard**, S. Leroux, B. Servin, D. Gourichon, P. Dehais, M.S. Cristobal, N. Marsaud, F. Vignoles, B. Bed'hom, J.-L. Coville, F. Hormozdiari, C. Beaumont, T. Zerjal, A. Vignal, M. Morisson, S. Lagarrigue, and F. Pitel. Transcriptome-wide investigation of genomic imprinting in chicken. 2014. Nucleic Acids Research.
 
-1. Numbered
-2. List
+### Complete list
+You can find a list of my publications on [google scholar](https://scholar.google.com/citations?user=7keeHFQAAAAJ&hl=en)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Conference presentation
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* **Pathology department retreat**, Stanford ([talk](https://github.com/lfresard/talks-posters/blob/master/2018-10_pathology_retreat.pdf)), October 2018
 
-### Jekyll Themes
+* **American Society of Human Genetics Annual Meeting**, San Diego ([Poster](https://github.com/lfresard/talks-posters/blob/master/2018_ASHG_POSTER_lfresard_final.pdf)), October 2018
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lfresard/lfresard.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* **Biology of Genomes**, Cold Spring Harbor Laboratory (Poster), May 2018
 
-### Support or Contact
+* **Big Data in Biomedicine Conference**, Stanford, United States (Poster), May 2017
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* **American Society of Human Genetics Annual Meeting**, Vancouver, Canada (Poster), October 2016
+
+* **Plant and Animal Genome XXIII Conference** , San Diego, California, United States (Poster, Oral Presentation), January 2014
+
+* **Epiconcept Workshop 2013** : Epigenetics for Improved Food Production: from Model to Practice}, Sant Feliu de Guíxols, Spain (Poster), October 2013
+
+
+* **International Society for Animal Genetics 2012**, Cairns, Australia (Poster, Two Oral Presentations), July 2012
+
+
+## Contact
+
+* Mail: lfresard@stanford.edu
+* Twitter: @LaureFresard
+* Linkedin: https://www.linkedin.com/in/lfresard/
+
+
