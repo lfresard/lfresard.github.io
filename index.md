@@ -50,7 +50,7 @@ You can find a list of my publications on [google scholar](https://scholar.googl
 * Member of the [Stanford Penpal group](https://www.stanfordsciencepenpals.com/) 2016 - 2018
 * Judge for [DNA day contest](https://www.ashg.org/education/dnaday.shtml) (ASHG) 2017
 * Co-chair Programms Committee [AWIS Palo Alto](http://pa-awis.weebly.com/)
-* Reviewer for: The Lancet, GigaScience, Gene
+* Reviewer for: The Lancet, GigaScience, Gene, Journal of Pediatrics, Genome Medicine
 
 
 ## Awards
