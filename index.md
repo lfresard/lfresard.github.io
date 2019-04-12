@@ -49,7 +49,7 @@ You can find a list of my publications on [google scholar](https://scholar.googl
 *  Writer for a scientific podcast: [Goggles Optional](http://gogglesoptional.com/)  2015-2016
 * Member of the [Stanford Penpal group](https://www.stanfordsciencepenpals.com/) 2016 - 2018
 * Judge for [DNA day contest](https://www.ashg.org/education/dnaday.shtml) (ASHG) 2017
-* Co-chair Programms Committee [AWIS Palo Alto](http://pa-awis.weebly.com/)
+* Co-chair Programms Committee [AWIS Palo Alto](http://pa-awis.weebly.com/) 2017 - current
 * Reviewer for: The Lancet, GigaScience, Gene, Journal of Pediatrics, Genome Medicine
 
 
