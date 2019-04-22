@@ -63,7 +63,7 @@ You can find a list of my publications on [google scholar](https://scholar.googl
 ## Contact
 
 * Mail: <lfresard@stanford.edu>
-* Twitter: @LaureFresard
-* Linkedin: https://www.linkedin.com/in/lfresard/
+* Twitter: [@LaureFresard](https://twitter.com/LaureFresard)
+* Linkedin: <https://www.linkedin.com/in/lfresard/>
 
 
